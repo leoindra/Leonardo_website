@@ -3,6 +3,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
+#Activate block
+active: false
+
 # This file represents a page section.
 headless: false
 
