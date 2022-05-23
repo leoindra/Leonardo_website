@@ -18,9 +18,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantitative Macroeconomics
+  - Entrepreneurship
+  - Firm Dynamics
 
 # Education to show in About widget
 education:
@@ -75,7 +75,7 @@ Hi! Welcome to my website.
 
 I am a fourth year PhD student in Economics at the European University Institute in Florence.
 
-My main research areas cover quantitative macroeconomics, with a focus on entrepreneurship and firm dynamics.
+My main research areas cover Quantitative Macroeconomics, with a focus on Entrepreneurship and Firm Dynamics.
 
 My Supervisors are <a href=https://sites.google.com/site/coopereconomics/ target="_blank">Russell Cooper</a> and <a href="https://sites.google.com/view/arpadabraham/home" target="_blank">Árpád Ábrahám</a>
 
