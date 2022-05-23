@@ -70,6 +70,14 @@ email: ''
 highlight_name: true
 ---
 
-Hi! Welcome to my website!
+Hi! Welcome to my website.
+
+
+I am a fourth year PhD student in Economics at the European University Institute in Florence.
+
+My main research areas cover quantitative macroeconomics, with a focus on entrepreneurship and firm dynamics.
+
+My Supervisors are <a href=https://sites.google.com/site/coopereconomics/ target="_blank">Russell Cooper</a> and <a href="https://sites.google.com/view/arpadabraham/home" target="_blank">Árpád Ábrahám</a>
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
