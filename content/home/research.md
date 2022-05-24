@@ -13,9 +13,9 @@ weight = 25
 +++
 
 <h2>Working Papers:</h2>
-<ul><li><h5> Entrepreneurship Over The Life-Cycle: The Role of Human versus Financial Capital Accumulation (Draft available upon request)</h5>
+<ul><li><h5> Entrepreneurship Over The Life-Cycle: The Role of Human versus Financial Capital Accumulation (Draft available upon request)</h5> (<i>with Jacek Piosik <i>)
 
-<h5> Presented at: <small> Theories and Methods in Macroeconomics 2022 (T2M2022),Spring Meeting of Young Economists (SMYE2022),Barcelona Summer Forum 2022 (<i>Scheduled<i>), EUI Alumni Conference 2022 (<i>Scheduled<i>), EEA-ESM Congress 2022 (<i>Scheduled<i>) </small></h5>
+<h5> Presented at: <small> Theories and Methods in Macroeconomics 2022 (T2M2022), Spring Meeting of Young Economists (SMYE2022), Barcelona Summer Forum 2022 (<i>Scheduled<i>), EUI Alumni Conference 2022 (<i>Scheduled<i>), EEA-ESM Congress 2022 (<i>Scheduled<i>) </small></h5>
 
 <p><small> In this paper we use administrative data on the population of Danish entrepreneurs to provide new facts on the taxonomy of entrepreneurship over the life-cycle. We document that entrepreneurs are on average 38 when opening their first firm and that ex-post successful entrepreneurs are even older at business start. We ask whether these life-cycle patterns are mainly explained by the need of accumulating financial assets or entrepreneurial human capital. We provide reduced form evidence that the entrepreneur's human capital at entry is an important predictor for firm survival and success, much more than his wealth at business foundation.  Motivated by these empirical facts we develop an occupational choice model in which agents can accumulate entrepreneurial human capital before becoming entrepreneurs. We bring the model to the data and use it to further disentangle the role of human versus financial capital for business formation as well as for the age composition of new entrepreneurs. Finally, we implement the 2014 Danish policy reform in our framework, which lowered the initial capital requirements for incorporated firms. We show that our model comes much closer in matching the response in new business creation observed in the data, compared to traditional models without human capital.</small></p></li></ul>
 
