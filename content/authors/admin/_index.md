@@ -73,7 +73,7 @@ highlight_name: true
 Hi! Welcome to my website.
 
 
-I am a fourth year PhD student in Economics at the European University Institute in Florence.
+I am a fourth year PhD student in Economics at the <a href=https://www.eui.eu/en/academic-units/department-of-economicstarget="_blank">European University Institute </a> in Florence.
 
 My main research areas cover Quantitative Macroeconomics, with a focus on Entrepreneurship and Firm Dynamics.
 
