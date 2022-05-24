@@ -13,7 +13,7 @@ weight = 25
 +++
 
 <h2>Working Papers:</h2>
-<ul><li><h5> Entrepreneurship Over The Life-Cycle: The Role of Human versus Financial Capital Accumulation (Draft available upon request)</h5> (<i>with Jacek Piosik <i>)
+<ul><li><h5> Entrepreneurship Over The Life-Cycle: The Role of Human versus Financial Capital Accumulation (Draft available upon request)</h5> (<i>with Jacek Piosik </i>)
 
 <h5> Presented at: <small> Theories and Methods in Macroeconomics 2022 (T2M2022), Spring Meeting of Young Economists (SMYE2022), Barcelona Summer Forum 2022 (<i>Scheduled<i>), EUI Alumni Conference 2022 (<i>Scheduled<i>), EEA-ESM Congress 2022 (<i>Scheduled<i>) </small></h5>
 
