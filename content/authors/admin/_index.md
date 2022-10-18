@@ -73,9 +73,9 @@ highlight_name: true
 Hi! Welcome to my website.
 
 
-I am a fourth year PhD student in Economics at the <a href= https://www.eui.eu/en/academic-units/department-of-economics/ target="_blank" >European University Institute</a> in Florence.
+I am a fifth year PhD student in Economics at the <a href= https://www.eui.eu/en/academic-units/department-of-economics/ target="_blank" >European University Institute</a> in Florence.
 
-My main research areas cover Quantitative Macroeconomics, with a focus on Entrepreneurship and Firm Dynamics.
+My main research areas cover Quantitative Macroeconomics, with a focus on Entrepreneurship, Business Formation and Firm Dynamics.
 
 My Supervisors are <a href=https://sites.google.com/site/coopereconomics/ target="_blank">Russell Cooper</a> and <a href="https://sites.google.com/view/arpadabraham/home" target="_blank">Árpád Ábrahám</a>
 
