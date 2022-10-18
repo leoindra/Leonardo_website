@@ -20,6 +20,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Quantitative Macroeconomics
   - Entrepreneurship
+  - Business Formation
   - Firm Dynamics
 
 # Education to show in About widget
