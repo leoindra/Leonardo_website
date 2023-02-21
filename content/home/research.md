@@ -28,7 +28,7 @@ weight = 25
 <h2>Working Papers:</h2>
 
 
-<ul><li><h5> Covid and Productivity in Europe: A Responsiveness Perspective </h5>
+<ul><li><h5> {{<staticref "uploads/CIH_23.pdf" "newtab" >}} <i class="far fa-file-alt"></i> Covid and Productivity in Europe: A Responsiveness Perspective{{< /staticref >}}</h5>
 <small>
 <a rel="noopener"
    target="_blank"
