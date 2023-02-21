@@ -22,6 +22,7 @@ interests:
   - Entrepreneurship
   - Business Formation
   - Firm Dynamics
+  - Taxation
 
 # Education to show in About widget
 #education:
