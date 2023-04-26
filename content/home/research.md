@@ -48,7 +48,9 @@ weight = 25
           display: inline-block;>
 <span style="mso-text-raise: 10pt;">&nbsp Current Draft &nbsp </span>
 </a></small> (<i>with <a href=https://sites.google.com/site/coopereconomics/ target="_blank">Russell Cooper</a>  and Wolfram Horn </i>)
-<br>
+
+<div>
+
 <p><i> (R&R at the European Economic Review)</i> </p>
 
 
