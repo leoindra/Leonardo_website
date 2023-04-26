@@ -48,7 +48,7 @@ weight = 25
           display: inline-block;>
 <span style="mso-text-raise: 10pt;">&nbsp Current Draft &nbsp </span>
 </a></small> (<i>with <a href=https://sites.google.com/site/coopereconomics/ target="_blank">Russell Cooper</a>  and Wolfram Horn </i>)
-<h5>  <i> (Revise and Resubmit at the European Economic Review)</i></h5>
+  <i> (R&R at the European Economic Review)</i> 
 
 
 <p><small> This paper studies the effects of Covid-19 on manufacturing output, employment and productivity across a set of European countries. Using a quantitative firm dynamics model with endogenous entry and exit, key parameters of adjustment costs and market power are estimated to match country-specific responsiveness of firms to exogenous shocks. We find that most heterogeneity in firm responsiveness reflects differences in labor adjustment costs. The estimated model is used to simulate the effects of the Covid-19 shock, with and without policy measures. Through these counterfactual exercises, the main impact of the policy interventions, treated here as work-sharing schemes targeted to low profitability firms and “no-firing” obligations, was to mitigate the drop in aggregate employment by keeping firms in business. We do not find evidence of adverse productivity effects from these interventions. Depending on the country, we calculate that the aggregate drop in employment would have been between 1.4 to 2.6 percentage points higher without policy support. From these counterfactuals, we establish the importance of targeted subsidies and the sensitivity of employment responses to firm beliefs. </small></p></li></ul>
