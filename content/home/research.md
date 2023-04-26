@@ -29,7 +29,7 @@ weight = 25
 
 
 
-<ul><li><h5> {{<staticref "uploads/CIH_23.pdf" "newtab" >}} Covid and Productivity in Europe: A Responsiveness Perspective (R&R at the European Economic Review)  {{< /staticref >}}</h5>
+<ul><li><h5> {{<staticref "uploads/CIH_23.pdf" "newtab" >}} Covid and Productivity in Europe: A Responsiveness Perspective   {{< /staticref >}}</h5> (R&R at the European Economic Review)
 <small>
 <a rel="noopener"
    target="_blank"
