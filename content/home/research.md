@@ -89,7 +89,7 @@ How important is the accumulation of human capital versus wealth in explaining s
 
 
 
-<ul><li><h5> {{<staticref "uploads/CIH_23.pdf" "newtab" >}} Teach the Nerds to Make a Pitch: Multidimensional Skills and Selection into Entrepreneurship  {{< /staticref >}}</h5>
+<ul><li><h5> {{<staticref "uploads/draft_08_23.pdf" "newtab" >}} Teach the Nerds to Make a Pitch: Multidimensional Skills and Selection into Entrepreneurship  {{< /staticref >}}</h5>
 <small>
 <a rel="noopener"
    target="_blank"
