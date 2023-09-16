@@ -75,9 +75,11 @@ highlight_name: true
 Hi! Welcome to my website.
 
 
-I am a fifth year PhD student in Economics at the <a href= https://www.eui.eu/en/academic-units/department-of-economics/ target="_blank" >European University Institute</a> in Florence.
+I am a PhD Candidate in Economics at the <a href= https://www.eui.eu/en/academic-units/department-of-economics/ target="_blank" >European University Institute</a> in Florence.
 
 I also serve as an external consultant for <a href= https://www.comp-net.org target="_blank" >The Competitiveness Research Network (CompNet)</a>.
+
+I will be on the job market in 2023/2024.
 
 
 
