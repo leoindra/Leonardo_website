@@ -79,7 +79,7 @@ I am a PhD Candidate in Economics at the <a href= https://www.eui.eu/en/academic
 
 I also serve as an external consultant for <a href= https://www.comp-net.org target="_blank" >The Competitiveness Research Network (CompNet)</a>.
 
-I will be on the job market in 2023/2024.
+I will be on the <b> job market </b> in 2023/2024.
 
 
 
