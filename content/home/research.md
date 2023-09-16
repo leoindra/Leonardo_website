@@ -94,7 +94,7 @@ How important is the accumulation of human capital versus wealth in explaining s
 <a rel="noopener"
    target="_blank"
    class="bg-rollover"
-   href=https://leonardoindraccolo.netlify.app/uploads/draft_08_09_23.pdf
+   href=https://leonardoindraccolo.netlify.app/uploads/draft_08_23.pdf
    style="background-color: #1565c0;
           font-family: Lato, sans-serif;
           font-weight:;
