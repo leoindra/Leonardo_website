@@ -25,6 +25,16 @@ weight = 25
 }
 </style>
 
+<h2>Job Market Paper:</h2>
+
+<ul><li><h5> Entrepreneurship, Human Capital and Wealth </h5> (<i>with Jacek Piosik </i>)
+
+<h5> Presented at: <small> Theories and Methods in Macroeconomics 2022 (T2M2022), Spring Meeting of Young Economists (SMYE2022), Barcelona Summer Forum 2022 , EUI Alumni Conference 2022, Vigo Workshop on Dynamic Macroeconomics 2022, EEA-ESEM Congress 2022, University of Bristol (scheduled), Copenhagen Business school (scheduled)  </small></h5>
+
+<p align="justify"> <small>
+How important is the accumulation of human capital versus wealth in explaining selection into entrepreneurship over an individual’s life-cycle? To answer this question we construct a new dataset based on Danish administrative data and use it to study the characteristics of individuals that select into entrepreneurship at different stages of their life. We provide new evidence on the fact that entrepreneurs are self-selected along several measures of human capital and skills. We show that entrepreneurs, compared to workers of the same age, on average i) earned higher wages before starting their business ii) experienced higher growth rates in wages iii) have more years of education and labor market experience. We also show that this self-selection, in terms of human capital, is even stronger across high productive entrepreneurs. Next, we show that future entrepreneurs hold slightly higher wealth, compared to workers of the same age, prior to starting the business. We ask whether aspiring entrepreneurs face liquidity constraints and use fathers’ wealth as indirect proxy for the easiness in access to credit. We find that the probability of becoming an entrepreneur is flat along the central part of the family wealth distribution and increasing only at the tails, which is inconsistent with the view that future entrepreneurs face major liquidity constraints. To quantify the relative importance of human capital accumulation versus wealth in affecting individuals’ decisions to start a business we propose a quantitative general equilibrium life-cycle model with human capital accumulation, financial frictions and occupational choices. The model is used to disentangle the role of wealth, skills and the quality of the business idea in affecting self-selection into entrepreneurship. Through counterfactual exercises we establish how financial frictions affect the quality of new ventures by distorting individuals’ human capital accumulation decisions. Finally, we use the calibrated model to quantify the efficiency and welfare effects of a tax policy aimed at incentivizing business creation by young individuals.
+</small></p></li></ul>
+
 <h2>Working Papers:</h2>
 
 
@@ -51,23 +61,14 @@ weight = 25
 
 
 
-<h5><i> (R&R at the European Economic Review)</i> </h5>
+<h5><i> (Revise & Resubmit at the European Economic Review)</i> </h5>
 
 
-<p><small> This paper studies the effects of Covid-19 on manufacturing output, employment and productivity across a set of European countries. Using a quantitative firm dynamics model with endogenous entry and exit, key parameters of adjustment costs and market power are estimated to match country-specific responsiveness of firms to exogenous shocks. We find that most heterogeneity in firm responsiveness reflects differences in labor adjustment costs. The estimated model is used to simulate the effects of the Covid-19 shock, with and without policy measures. Through these counterfactual exercises, the main impact of the policy interventions, treated here as work-sharing schemes targeted to low profitability firms and “no-firing” obligations, was to mitigate the drop in aggregate employment by keeping firms in business. We do not find evidence of adverse productivity effects from these interventions. Depending on the country, we calculate that the aggregate drop in employment would have been between 1.4 to 2.6 percentage points higher without policy support. From these counterfactuals, we establish the importance of targeted subsidies and the sensitivity of employment responses to firm beliefs. </small></p></li></ul>
+<p align="justify"> <small> This paper studies the effects of Covid-19 on manufacturing output, employment and productivity across a set of European countries. Using a quantitative firm dynamics model with endogenous entry and exit, key parameters of adjustment costs and market power are estimated to match country-specific responsiveness of firms to exogenous shocks. We find that most heterogeneity in firm responsiveness reflects differences in labor adjustment costs. The estimated model is used to simulate the effects of the Covid-19 shock, with and without policy measures. Through these counterfactual exercises, the main impact of the policy interventions, treated here as work-sharing schemes targeted to low profitability firms and “no-firing” obligations, was to mitigate the drop in aggregate employment by keeping firms in business. We do not find evidence of adverse productivity effects from these interventions. Depending on the country, we calculate that the aggregate drop in employment would have been between 1.4 to 2.6 percentage points higher without policy support. From these counterfactuals, we establish the importance of targeted subsidies and the sensitivity of employment responses to firm beliefs. </small></p></li></ul>
 
-<h2>Work in Progress:</h2>
 
-<ul><li><h5> Entrepreneurship, Human Capital and Wealth </h5> (<i>with Jacek Piosik </i>)
 
-<h5> Presented at: <small> Theories and Methods in Macroeconomics 2022 (T2M2022), Spring Meeting of Young Economists (SMYE2022), Barcelona Summer Forum 2022 , EUI Alumni Conference 2022, Vigo Workshop on Dynamic Macroeconomics 2022, EEA-ESEM Congress 2022, University of Bristol (scheduled), Copenhagen Business school (scheduled)  </small></h5>
 
-<p align="justify"> <small><small>
-How important is the accumulation of human capital versus wealth in explaining selection into entrepreneurship over an individual’s life-cycle? To answer this question we construct a new dataset based on Danish administrative data and use it to study the characteristics of individuals that select into entrepreneurship at different stages of their life. We provide new evidence on the fact that entrepreneurs are self-selected along several measures of human capital and skills. We show that entrepreneurs, compared to workers of the same age, on average i) earned higher wages before starting their business ii) experienced higher growth rates in wages iii) have more years of education and labor market experience. We also show that this self-selection, in terms of human capital, is even stronger across high productive entrepreneurs. Next, we show that future entrepreneurs hold slightly higher wealth, compared to workers of the same age, prior to starting the business. We ask whether aspiring entrepreneurs face liquidity constraints and use fathers’ wealth as indirect proxy for the easiness in access to credit. We find that the probability of becoming an entrepreneur is flat along the central part of the family wealth distribution and increasing only at the tails, which is inconsistent with the view that future entrepreneurs face major liquidity constraints. To quantify the relative importance of human capital accumulation versus wealth in affecting individuals’ decisions to start a business we propose a quantitative general equilibrium life-cycle model with human capital accumulation, financial frictions and occupational choices. The model is used to disentangle the role of wealth, skills and the quality of the business idea in affecting self-selection into entrepreneurship. Through counterfactual exercises we establish how financial frictions affect the quality of new ventures by distorting individuals’ human capital accumulation decisions. Finally, we use the calibrated model to quantify the efficiency and welfare effects of a tax policy aimed at incentivizing business creation by young individuals.
-</small></small></p></li></ul>
-
-<p><small> cioa
-.</small></p></li></ul>
 
 
 
