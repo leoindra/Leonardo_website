@@ -89,10 +89,25 @@ How important is the accumulation of human capital versus wealth in explaining s
 
 
 
-
-
-<ul><li><p><h5>Teach the Nerds to Make a Pitch: Multidimensional Skills and Selection into Entrepreneurship </h5>
-(<i>with <a href=https://www.damianoargan.com target="_blank">Damiano Argan</a>  and Jacek Piosik</i>)</p></li></ul>
+<ul><li><h5> {{<staticref "uploads/CIH_23.pdf" "newtab" >}} Teach the Nerds to Make a Pitch: Multidimensional Skills and Selection into Entrepreneurship  {{< /staticref >}}</h5>
+<small>
+<a rel="noopener"
+   target="_blank"
+   class="bg-rollover"
+   href=https://leonardoindraccolo.netlify.app/uploads/draft_08_09_23.pdf
+   style="background-color: #1565c0;
+          font-family: Lato, sans-serif;
+          font-weight:;
+          text-decoration: none;
+          text-align: center;
+          padding: 1px 1px;
+          color: #ffffff;
+          border-radius: 4px;
+          margin:0px auto;
+          text-align: center;
+          display: inline-block;>
+<span style="mso-text-raise: 10pt;">&nbsp Preliminary Draft &nbsp </span>
+</a></small> </a></small> (<i>with <a href=https://www.damianoargan.com target="_blank">Damiano Argan</a>  and Jacek Piosik </i>)
 
 <p align="justify"> <small>Using danish administrative data, in this paper we study how individuals' skill set composition affects self-selection into entrepreneurship. We use detailed education registry data on high school grades in math and danish language to measure analytical and communication skills. We show that highly specialized skill sets are rewarded on the labor market in terms of higher wages, but are negatively related to the probability of becoming an entrepreneur. We also find that for students with high math grades in high school the probability of starting a business is monotonically increasing in their oral grade in Danish, while it is not so for the rest of the population. Motivated by the evidence that students performing well in math run on average more profitable and bigger businesses, we propose an identification strategy to casually estimate the effect of skill multidimensionality on the probability of becoming an entrepreneur. For the population of high performing math students we use information on parents' human capital and exploit within-school, across-cohort variation in students' exposure to peers whose father has a university degree in humanities. We find that the most treated individual (90th percentile) in our sample has 1.1 percentage points higher probability of becoming an entrepreneur compared to the least treated one (10th percentile). The effect is economically significant, being equal to 20% of the overall share of entrepreneurs in the economy. We conclude by highlighting the importance of improving communication skills of individuals with high analytical abilities to incentivize the creation of high performing firms.
 </small></p></li></ul>
