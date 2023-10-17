@@ -28,7 +28,7 @@ weight = 25
 <h2>Job Market Paper:</h2>
 
 
-<ul><li><h5> {{<staticref "uploads/JMP_08_09_23.pdf" "newtab" >}} Entrepreneurship, Human Capital and Wealth  {{< /staticref >}}</h5>
+<ul><li><h5> {{<staticref "uploads/JMP.pdf" "newtab" >}} Entrepreneurship, Human Capital and Wealth  {{< /staticref >}}</h5>
 <small>
 <a rel="noopener"
    target="_blank"
