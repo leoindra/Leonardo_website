@@ -19,9 +19,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Quantitative Macroeconomics
+  - Firm Dynamics
   - Entrepreneurship
   - Business Formation
-  - Firm Dynamics
   - Taxation
 
 # Education to show in About widget
@@ -83,7 +83,7 @@ I will be on the <b> job market </b> in 2023/2024.
 
 
 
-My main research areas cover Quantitative Macroeconomics, with a focus on Entrepreneurship, Firm Dynamics and Taxation.
+My main research areas cover Quantitative Macroeconomics, with a focus on Firm Dynamics and Productivity, Entrepreneurship and Taxation.
 
 My Supervisors are <a href=https://sites.google.com/site/coopereconomics/ target="_blank">Russell Cooper</a> and <a href="https://sites.google.com/view/arpadabraham/home" target="_blank">Árpád Ábrahám</a>
 
