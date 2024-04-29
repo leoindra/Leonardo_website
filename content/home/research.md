@@ -80,7 +80,7 @@ This paper studies how financial constraints and human capital accumulation inte
 
 
 
-<h5><i> European Economic Review </i>, <small> Volume 163, April 2024 </small>  </h5>
+<h5> <small> <i> European Economic Review </i></small> , <small> Volume 163, April 2024 </small>  </h5>
 
 
 <p align="justify"> <small> This paper studies the effects of Covid-19 on manufacturing output, employment and productivity across a set of European countries. Using a quantitative firm dynamics model with endogenous entry and exit, key parameters of adjustment costs and market power are estimated to match country-specific responsiveness of firms to exogenous shocks. The estimated model is used to simulate the effects of the Covid-19 shock, with and without policy measures. As seen through counterfactual exercises, the main impact of the policy interventions, treated here as work-sharing schemes targeted to low profitability firms and "no-firing" obligations, was to mitigate the drop in aggregate employment by keeping firms in business. Depending on the country, we calculate that the aggregate drop in employment would have been between 1.0 and 1.9 percentage points higher without policy support. We do not find evidence of adverse productivity effects from these interventions. From these counterfactuals, we establish the importance of targeted subsidies and the sensitivity of employment responses to firm beliefs. </small></p></li></ul>
