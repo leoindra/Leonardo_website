@@ -82,8 +82,3 @@ I will join the Economist Program of the <b> International Monetary Fund </b> in
 
 
 <b> Research areas: </b> Quantitative Macroeconomics with a focus on Firm Dynamics and Productivity, Entrepreneurship and Taxation.
-
-My Supervisors are <a href=https://sites.google.com/site/coopereconomics/ target="_blank">Russell Cooper</a> and <a href="https://sites.google.com/view/arpadabraham/home" target="_blank">Árpád Ábrahám</a>
-
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
