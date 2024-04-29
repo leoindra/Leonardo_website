@@ -77,13 +77,11 @@ Hi! Welcome to my website.
 
 I am a PhD Candidate in Economics at the <a href= https://www.eui.eu/en/academic-units/department-of-economics/ target="_blank" >European University Institute</a> in Florence.
 
-I also serve as an external consultant for <a href= https://www.comp-net.org target="_blank" >The Competitiveness Research Network (CompNet)</a>.
 
-I will be on the <b> job market </b> in 2023/2024.
-
+I will join the Economist Program of the <b> International Monetary Fund </b> in September 2024.
 
 
-My main research areas cover Quantitative Macroeconomics, with a focus on Firm Dynamics and Productivity, Entrepreneurship and Taxation.
+<b> Research areas: </b> Quantitative Macroeconomics with a focus on Firm Dynamics and Productivity, Entrepreneurship and Taxation.
 
 My Supervisors are <a href=https://sites.google.com/site/coopereconomics/ target="_blank">Russell Cooper</a> and <a href="https://sites.google.com/view/arpadabraham/home" target="_blank">Árpád Ábrahám</a>
 
