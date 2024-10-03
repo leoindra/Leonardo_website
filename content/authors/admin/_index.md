@@ -74,11 +74,12 @@ highlight_name: true
 
 Hi! Welcome to my website.
 
+I am an Economist at the <b> International Monetary Fund </b> (IMF).
 
-I am a PhD Candidate in Economics at the <a href= https://www.eui.eu/en/academic-units/department-of-economics/ target="_blank" >European University Institute</a> in Florence.
+I received my PhD in Economics from the European University Institute in 2024.
 
 
-I will join the Economist Program of the <b> International Monetary Fund </b> in September 2024.
+All views expressed on this site are my own and do not necessarily reflect the position of the International Monetary Fund.
 
 
 <b> Research areas: </b> Quantitative Macroeconomics with a focus on Firm Dynamics and Productivity, Entrepreneurship and Taxation.
