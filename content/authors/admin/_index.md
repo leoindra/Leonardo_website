@@ -6,12 +6,12 @@ title: Leonardo Indraccolo
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Economics
+role: Economist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: European University Institute
-    url: https://www.eui.eu/en/academic-units/department-of-economics
+  - name: International Monetary Fund
+    url: https://www.imf.org/en/Home
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
