@@ -25,15 +25,9 @@ content:
     #  captcha: false
 
   # Contact details (edit or remove options as required)
-  email: Leonardo.Indraccolo@eui.eu
+  email: lindraccolo@imf.org
   #phone: 888 888 88 88
-  address:
-    street: Via delle Fontanelle 18
-    city: Firenze
-    #region:
-    postcode: '50014'
-    country: Italia
-    country_code: IT
+
   #coordinates:
     #latitude: '37.4275'
     #longitude: '-122.1697'
