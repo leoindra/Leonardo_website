@@ -53,7 +53,7 @@ weight = 25
 
 
 
-<h5>  <i> European Economic Review </i> , <small> Volume 163, April 2024 </small>  </h5>
+<h5>  <i> European Economic Review </i> , Volume 163, April 2024   </h5>
 
 
 <p align="justify"> </p></li></ul>
