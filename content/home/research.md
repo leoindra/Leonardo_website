@@ -49,7 +49,7 @@ weight = 25
           text-align: center;
           display: inline-block;>
 <span style="mso-text-raise: 10pt;">&nbsp Draft &nbsp </span>
-</a></small> (<i>with <a href=https://sites.google.com/site/coopereconomics/ target="_blank">Russell Cooper</a> and <a href=https://sites.google.com/site/coopereconomics/ target="_blank">Russell Cooper</a> and Wolfram Horn </i>)
+</a></small> (<i>with <a href=https://sites.google.com/site/coopereconomics/ target="_blank">Russell Cooper</a> and <a href=https://wolframhorn.github.io/ target="_blank">Wolfram Horn</a>  </i>)
 
 
 
