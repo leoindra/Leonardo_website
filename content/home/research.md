@@ -113,3 +113,25 @@ weight = 25
 
 <p align="justify"> <small>
 </small></p></li></ul>
+
+<h2>Policy Work:</h2>
+
+<ul><li><h5>  United Kingdom, 2025: IMF Article IV Staff Report  {{< /staticref >}}</h5>
+<small>
+<a rel="noopener"
+   target="_blank"
+   class="bg-rollover"
+   href=https://leonardoindraccolo.netlify.app/uploads/draft_08_23.pdf
+   style="background-color: #1565c0;
+          font-family: Lato, sans-serif;
+          font-weight:;
+          text-decoration: none;
+          text-align: center;
+          padding: 1px 1px;
+          color: #ffffff;
+          border-radius: 4px;
+          margin:0px auto;
+          text-align: center;
+          display: inline-block;>
+<span style="mso-text-raise: 10pt;">&nbsp Current Draft &nbsp </span>
+</a></small>
