@@ -111,9 +111,6 @@ weight = 25
 <span style="mso-text-raise: 10pt;">&nbsp Current Draft &nbsp </span>
 </a></small> </a></small> (<i>with <a href=https://www.damianoargan.com target="_blank">Damiano Argan</a>  and Jacek Piosik </i>)
 
-<p align="justify"> </p></li></ul>
-
-<h2>Policy Work:</h2>
 
 <p align="justify"> <small>
 </small></p></li></ul>
