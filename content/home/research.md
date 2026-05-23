@@ -12,112 +12,59 @@ weight = 25
 
 +++
 
-<link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css>
 <style>
-.bg-rollover:hover{
-    background-color: #585f6a !important;
-    border-color:#1565c0;
-    color: #ffffff !important;
-  }
-  .wx{
-    width: 250px;
-  }
-.pub-entry {
+.research-section {
   font-size: 0.85em;
+  margin-bottom: 2.5em;
 }
-.pub-entry h5 {
+.research-section h2 {
+  font-size: 1.2em;
+  margin-bottom: 1em;
+}
+.research-section h5 {
   font-size: 1em;
+  margin-bottom: 0.3em;
+}
+.research-section a {
+  color: #1565c0;
+  text-decoration: none;
+}
+.research-section a:hover {
+  text-decoration: underline;
 }
 </style>
 
-
-
+<div class="research-section">
 <h2>Publications:</h2>
-
-<ul><li><div class="pub-entry"><h5> {{<staticref "uploads/CIH_23.pdf" "newtab" >}} Covid and Productivity in Europe: A Responsiveness Perspective   {{< /staticref >}}</h5>
-<small>
-<a rel="noopener"
-   target="_blank"
-   class="bg-rollover"
-   href=https://leonardoindraccolo.netlify.app/uploads/CIH_23.pdf
-   style="background-color: #1565c0;
-          font-family: Lato, sans-serif;
-          font-weight:;
-          text-decoration: none;
-          text-align: center;
-          padding: 1px 1px;
-          color: #ffffff;
-          border-radius: 4px;
-          margin:0px auto;
-          text-align: center;
-          display: inline-block;">
-<span style="mso-text-raise: 10pt;">&nbsp Draft &nbsp </span>
-</a></small> (<i>with <a href=https://sites.google.com/site/coopereconomics/ target="_blank">Russell Cooper</a> and <a href=https://wolframhorn.github.io/ target="_blank">Wolfram Horn</a>  </i>)
-
-<h5>  <i> European Economic Review </i> , Volume 163, April 2024   </h5>
-
-<p align="justify"> </p></div></li></ul>
-
-
-<h2>Working Papers:</h2>
-
-
-<ul><li><h5> {{<staticref "uploads/JMP.pdf" "newtab" >}} Entrepreneurship, Human Capital and Wealth  {{< /staticref >}}</h5>
-<small>
-<a rel="noopener"
-   target="_blank"
-   class="bg-rollover"
-   href=https://leonardoindraccolo.netlify.app/uploads/JMP.pdf
-   style="background-color: #1565c0;
-          font-family: Lato, sans-serif;
-          font-weight:;
-          text-decoration: none;
-          text-align: center;
-          padding: 1px 1px;
-          color: #ffffff;
-          border-radius: 4px;
-          margin:0px auto;
-          text-align: center;
-          display: inline-block;">
-<span style="mso-text-raise: 10pt;">&nbsp Current Draft &nbsp </span>
-</a></small> (<i>with Jacek Piosik </i>)
-
-<p align="justify"> <small>
-
-</small></p></li></ul>
-
-
-
-
-<ul><li><h5> {{<staticref "uploads/draft_08_23.pdf" "newtab" >}} Teach the Nerds to Make a Pitch: Multidimensional Skills and Selection into Entrepreneurship  {{< /staticref >}}</h5>
-<small>
-<a rel="noopener"
-   target="_blank"
-   class="bg-rollover"
-   href=https://leonardoindraccolo.netlify.app/uploads/draft_08_23.pdf
-   style="background-color: #1565c0;
-          font-family: Lato, sans-serif;
-          font-weight:;
-          text-decoration: none;
-          text-align: center;
-          padding: 1px 1px;
-          color: #ffffff;
-          border-radius: 4px;
-          margin:0px auto;
-          text-align: center;
-          display: inline-block;">
-<span style="mso-text-raise: 10pt;">&nbsp Current Draft &nbsp </span>
-</a></small> (<i>with <a href=https://www.damianoargan.com target="_blank">Damiano Argan</a>  and Jacek Piosik </i>)
-
-<p align="justify"> <small>
-</small></p></li></ul>
-
-
-<h2>Work in Progress:</h2>
-
 <ul>
-  <li><h5>Title of work in progress paper</h5>
-  (<i>with Coauthor Name</i>)
-  <p align="justify"><small>Brief description if desired.</small></p></li>
+  <li>
+    <h5><a href="https://leonardoindraccolo.netlify.app/uploads/CIH_23.pdf" target="_blank">Covid and Productivity in Europe: A Responsiveness Perspective</a></h5>
+    (<i>with <a href="https://sites.google.com/site/coopereconomics/" target="_blank">Russell Cooper</a> and <a href="https://wolframhorn.github.io/" target="_blank">Wolfram Horn</a></i>)<br>
+    <i>European Economic Review</i>, Volume 163, April 2024
+  </li>
 </ul>
+</div>
 
+<div class="research-section">
+<h2>Working Papers:</h2>
+<ul>
+  <li>
+    <h5><a href="https://leonardoindraccolo.netlify.app/uploads/JMP.pdf" target="_blank">Entrepreneurship, Human Capital and Wealth</a></h5>
+    (<i>with Jacek Piosik</i>)
+  </li>
+  <li>
+    <h5><a href="https://leonardoindraccolo.netlify.app/uploads/draft_08_23.pdf" target="_blank">Teach the Nerds to Make a Pitch: Multidimensional Skills and Selection into Entrepreneurship</a></h5>
+    (<i>with <a href="https://www.damianoargan.com" target="_blank">Damiano Argan</a> and Jacek Piosik</i>)
+  </li>
+</ul>
+</div>
+
+<div class="research-section">
+<h2>Work in Progress:</h2>
+<ul>
+  <li>
+    <h5>Fiscal Policy and Productivity in Europe</h5>
+    (<i>with <a href="https://wolframhorn.github.io/" target="_blank">Wolfram Horn</a></i>)
+  </li>
+</ul>
+</div>
