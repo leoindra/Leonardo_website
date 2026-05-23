@@ -16,13 +16,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# Interests to show in About widget
-interests:
-  - Quantitative Macroeconomics
-  - Firm Dynamics
-  - Entrepreneurship
-  - Business Formation
-  - Taxation
+
 
 # Education to show in About widget
 #education:
@@ -82,4 +76,4 @@ I received my PhD in Economics from the European University Institute in 2024.
 All views expressed on this site are my own and do not necessarily reflect the position of the International Monetary Fund.
 
 
-<b> Research areas: </b> Quantitative Macroeconomics with a focus on Firm Dynamics and Productivity, Entrepreneurship and Taxation.
+<b> Research areas: </b> Macroeconomics with a focus on Fiscal Policy, Taxation, Firm Dynamics and Productivity.
