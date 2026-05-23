@@ -22,6 +22,11 @@ weight = 25
   .wx{
     width: 250px;
   }
+.pub-entry {
+  font-size: 0.85em;
+}
+.pub-entry h5 {
+  font-size: 1em;
 }
 </style>
 
@@ -29,9 +34,7 @@ weight = 25
 
 <h2>Publications:</h2>
 
-
-
-<ul><li><h5> {{<staticref "uploads/CIH_23.pdf" "newtab" >}} Covid and Productivity in Europe: A Responsiveness Perspective   {{< /staticref >}}</h5>
+<ul><li><div class="pub-entry"><h5> {{<staticref "uploads/CIH_23.pdf" "newtab" >}} Covid and Productivity in Europe: A Responsiveness Perspective   {{< /staticref >}}</h5>
 <small>
 <a rel="noopener"
    target="_blank"
@@ -47,16 +50,13 @@ weight = 25
           border-radius: 4px;
           margin:0px auto;
           text-align: center;
-          display: inline-block;>
+          display: inline-block;">
 <span style="mso-text-raise: 10pt;">&nbsp Draft &nbsp </span>
 </a></small> (<i>with <a href=https://sites.google.com/site/coopereconomics/ target="_blank">Russell Cooper</a> and <a href=https://wolframhorn.github.io/ target="_blank">Wolfram Horn</a>  </i>)
 
-
-
 <h5>  <i> European Economic Review </i> , Volume 163, April 2024   </h5>
 
-
-<p align="justify"> </p></li></ul>
+<p align="justify"> </p></div></li></ul>
 
 
 <h2>Working Papers:</h2>
@@ -78,11 +78,9 @@ weight = 25
           border-radius: 4px;
           margin:0px auto;
           text-align: center;
-          display: inline-block;>
+          display: inline-block;">
 <span style="mso-text-raise: 10pt;">&nbsp Current Draft &nbsp </span>
 </a></small> (<i>with Jacek Piosik </i>)
-
-
 
 <p align="justify"> <small>
 
@@ -107,10 +105,19 @@ weight = 25
           border-radius: 4px;
           margin:0px auto;
           text-align: center;
-          display: inline-block;>
+          display: inline-block;">
 <span style="mso-text-raise: 10pt;">&nbsp Current Draft &nbsp </span>
-</a></small> </a></small> (<i>with <a href=https://www.damianoargan.com target="_blank">Damiano Argan</a>  and Jacek Piosik </i>)
-
+</a></small> (<i>with <a href=https://www.damianoargan.com target="_blank">Damiano Argan</a>  and Jacek Piosik </i>)
 
 <p align="justify"> <small>
 </small></p></li></ul>
+
+
+<h2>Work in Progress:</h2>
+
+<ul>
+  <li><h5>Title of work in progress paper</h5>
+  (<i>with Coauthor Name</i>)
+  <p align="justify"><small>Brief description if desired.</small></p></li>
+</ul>
+
