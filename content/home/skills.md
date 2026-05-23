@@ -9,8 +9,14 @@ weight = 27
 
 +++
 
-<link rel="stylesheet" href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css>
 <style>
+.policy-section {
+  font-size: 0.85em;
+}
+.policy-section h2 {
+  font-size: 1.2em;
+  margin-bottom: 1em;
+}
 .policy-entry {
   margin-bottom: 0.6em;
 }
@@ -23,6 +29,7 @@ weight = 27
 }
 </style>
 
+<div class="policy-section">
 <h2>IMF Country Staff Reports and Selected Issues Papers</h2>
 
 <ul>
@@ -52,3 +59,4 @@ weight = 27
   </li>
 
 </ul>
+</div>
