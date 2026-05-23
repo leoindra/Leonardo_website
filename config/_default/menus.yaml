@@ -10,9 +10,9 @@ main:
   - name: Research
     url: '#research'
     weight: 20
-    - name: Policy Work
+  - name: Policy Work
     url: '#skills'
-    weight: 20
+    weight: 25
   - name: CV
     url: uploads/cv.pdf
     weight: 30
@@ -25,3 +25,4 @@ main:
 #  - name: CV
 #    url: uploads/resume.pdf
 #    weight: 70
+
